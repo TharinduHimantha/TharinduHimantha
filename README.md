@@ -16,22 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduHimantha&layout=compact&langs_count=20&theme=highcontrast&hide_border=true&title_color=58a6ff)
 -->
 
 # Tharindu Himantha
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduHimantha&layout=compact&langs_count=20&theme=highcontrast&hide_border=true&title_color=58a6ff)
-
 ### 🧠 Core Competencies
 
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-black?style=flat-square)
-![Optimization](https://img.shields.io/badge/-Optimization-black?style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms-brightgreen?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-cyan?style=flat-square)
+![Optimization](https://img.shields.io/badge/-Optimization-purple?style=flat-square)
 
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduHimantha&layout=compact&langs_count=20&theme=highcontrast&hide_border=true&title_color=58a6ff"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduHimantha&theme=dark&hide_border=true"/>
 </p>
 
